@@ -293,12 +293,12 @@
 
       <div>
         <div class="flex">
-          <div class="row justify-between">
+          <div class="row  q-mt-xs justify-between">
             <q-toolbar-title class="text-subtitle1 text-bold text-grey">Contactos</q-toolbar-title>
-            <div class="flex">
-              <p>q</p>
-              <p>q</p>
-              <p>q</p>
+            <div class="flex q-ml-xl row q-gutter-sm">
+              <q-icon name="video_call" color="grey" size="sm"/>
+              <q-icon name="search" color="grey" size="sm"/>
+              <q-icon name="more_horiz" color="grey" size="sm"/>
             </div>
           </div>
           <q-list>
@@ -370,7 +370,7 @@
     </q-drawer>
 
     <q-page-container class="bg-grey-3">
-      <router-view class="bg-grey-3"/>
+      <router-view/>
     </q-page-container>
 
   </q-layout>

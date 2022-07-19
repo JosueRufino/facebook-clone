@@ -139,7 +139,7 @@
         <div class="flex justify-between q-mt-md q-ml-md">
           <div class="flex ">
             <q-avatar size="lg">
-              <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+              <img src="https://scontent.flad1-1.fna.fbcdn.net/v/t1.6435-9/34693658_10160578743590717_5633871785150644224_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oDkc3lmobOIAX9MbIjD&_nc_ht=scontent.flad1-1.fna&oh=00_AT_DzYt0uoTbXKBOOID2K597Tsi0la0mAFrLEYxDRV-daw&oe=62FD51BC">
             </q-avatar>
             <div class="q-ml-sm">
               <div class="flex items-center">
@@ -201,11 +201,11 @@
         <div class="flex justify-between q-mt-md q-ml-md">
           <div class="flex ">
             <q-avatar size="lg">
-              <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+              <img src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/277729202_5174230515971345_8631761518802770132_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=w9cMUfmLw0MAX-X4Qh3&_nc_ht=scontent.flad1-1.fna&oh=00_AT-IS_9KSgenlE1jBdSNgLFzAew4EVsRJ0FQ_3s1AVhAvw&oe=62DB30CA">
             </q-avatar>
             <div class="q-ml-sm">
               <div class="flex items-center">
-                <q-toolbar-title class="text-subtitle1 text-bold">Júlio Dala</q-toolbar-title>
+                <q-toolbar-title class="text-subtitle1 text-bold">Benilsom Cambanza</q-toolbar-title>
               </div>
               <div class="flex">
                 <p class="text-grey">22h.</p>
@@ -218,7 +218,7 @@
           </div>
         </div>
         <div>
-          <p class="text-bold text-h5 text-center">Não existe programador bonito, todos eles têm cara de cmd. Principalmente eu. kkkkkkk</p>
+          <p class="text-bold text-h5 text-center">Estabilidade não existe....</p>
         </div>
         <div class="flex q-ml-md">
           <q-icon name="sentiment_very_satisfied" color="yellow" size="sm"/>
@@ -233,7 +233,7 @@
         <q-separator/>
         <div class="flex q-ml-md q-mt-md q-mb-sm">
           <q-avatar size="lg">
-            <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+            <img src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/277729202_5174230515971345_8631761518802770132_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=w9cMUfmLw0MAX-X4Qh3&_nc_ht=scontent.flad1-1.fna&oh=00_AT-IS_9KSgenlE1jBdSNgLFzAew4EVsRJ0FQ_3s1AVhAvw&oe=62DB30CA">
           </q-avatar>
           <q-input class="q-ml-sm" placeholder="Escreva um comentário" style="width:480px;" bg-color="grey-4" dense rounded outlined v-model="text">
              <template v-slot:append>
@@ -253,7 +253,7 @@
         <div class="flex justify-between q-mt-md q-ml-md">
           <div class="flex ">
             <q-avatar size="lg">
-              <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+              <img src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/284689279_3142734906038845_8639394045893896898_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c20shJKrW9wAX823_lm&_nc_ht=scontent.flad1-1.fna&oh=00_AT8pI4bx3WdMzY4pbeGniFmcbq2SqTg1ZVoSKeldd6kjKA&oe=62DB7284">
             </q-avatar>
             <div class="q-ml-sm">
               <div class="flex items-center">
@@ -285,7 +285,7 @@
         <q-separator/>
         <div class="flex q-ml-md q-mt-md q-mb-sm">
           <q-avatar size="lg">
-            <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+            <img src="https://scontent.flad1-1.fna.fbcdn.net/v/t39.30808-6/284689279_3142734906038845_8639394045893896898_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c20shJKrW9wAX823_lm&_nc_ht=scontent.flad1-1.fna&oh=00_AT8pI4bx3WdMzY4pbeGniFmcbq2SqTg1ZVoSKeldd6kjKA&oe=62DB7284">
           </q-avatar>
           <q-input class="q-ml-sm" placeholder="Escreva um comentário" style="width:480px;" bg-color="grey-4" dense rounded outlined v-model="text">
              <template v-slot:append>
@@ -306,11 +306,11 @@
         <div class="flex justify-between q-mt-md q-ml-md">
           <div class="flex ">
             <q-avatar size="lg">
-              <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+              <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t39.30808-6/237362503_677394936990931_1466061557555029018_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=O1uXeFh6XZYAX-wESgR&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VLX6r8yHVAzEmxB2mO4yGi0X3lTu1bfZWCbV5pBrpZw&oe=62DBB5B2">
             </q-avatar>
             <div class="q-ml-sm">
               <div class="flex items-center">
-                <q-toolbar-title class="text-subtitle1 text-bold">Júlio Dala</q-toolbar-title>
+                <q-toolbar-title class="text-subtitle1 text-bold">Carlos Alberto</q-toolbar-title>
               </div>
               <div class="flex">
                 <p class="text-grey">22h.</p>
@@ -323,7 +323,7 @@
           </div>
         </div>
         <div>
-          <p class="text-bold text-h5 text-center">Não existe programador bonito, todos eles têm cara de cmd. Principalmente eu. kkkkkkk</p>
+          <p class="text-bold text-h5 text-center">Eu sou corno a três anos. E saber disse me entristesse...</p>
         </div>
         <div class="flex q-ml-md">
           <q-icon name="sentiment_very_satisfied" color="yellow" size="sm"/>
@@ -338,7 +338,7 @@
         <q-separator/>
         <div class="flex q-ml-md q-mt-md q-mb-sm">
           <q-avatar size="lg">
-            <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t1.6435-9/200442522_1821948004652065_8933942799960856173_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=nJsISWlS5WYAX-0KSi3&tn=IYMtPF6JkkWQMU7Y&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VhHP4Ugf4bjgVDta0P5b758JTSj1jyG3XJP0eCVADbA&oe=62FCCC8D">
+            <img src="https://scontent.flad1-2.fna.fbcdn.net/v/t39.30808-6/237362503_677394936990931_1466061557555029018_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=O1uXeFh6XZYAX-wESgR&_nc_ht=scontent.flad1-2.fna&oh=00_AT9VLX6r8yHVAzEmxB2mO4yGi0X3lTu1bfZWCbV5pBrpZw&oe=62DBB5B2">
           </q-avatar>
           <q-input class="q-ml-sm" placeholder="Escreva um comentário" style="width:480px;" bg-color="grey-4" dense rounded outlined v-model="text">
              <template v-slot:append>
